@@ -56,4 +56,3 @@ spec:
     #     { _id: 1, host: "mongo-statefulset-1.mongo.project3.svc.cluster.local:27017" }
     #     ]
     # })
-

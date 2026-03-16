@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: chimuanyavic7/frontend-rating-app:v1 
+          image: chimuanyavic7/frontend-rating-app:v1
           ports:
             - containerPort: 80
